@@ -1,4 +1,4 @@
-# Whattsapp-Clone1
+# Whattsapp-Clone
 The WhatsApp clone made using React and firebase is a chat application that works just like the popular messaging app, WhatsApp. It is built using a programming language called React which is very easy to use, fast and secure. The clone uses a service called Firebase for storing user information and managing communication in real-time.
 
 The clone has all the important features of WhatsApp such as sending and receiving messages,  group chats and instant notifications.
